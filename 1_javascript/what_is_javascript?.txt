@@ -1,0 +1,21 @@
+When i search what is javavscript in browser asusual it display contents and meaning of javavscript
+Before  understand  the  javavscript  meaning you will should understand some terms like static and 
+dynamic  programming  language, compiler , interpreter , compilation , run time  and  scripting  in 
+computer science. Compiler-it  analysis  the  all  source  statements  and  throws  the  error when 
+it find   error , if  it  is  zero  error  it  converts  high  level  language   instructions  into 
+machine  level  language(1's and 0's) ,it executes whole program .Interpreter is a computer program 
+that  directly  executes  instructions  written  in  a programming  or  scripting language, without
+requiring them previously to have  been  compiled  into  a machine language program and instruction 
+are executed by line by line Compile-time is the time at which the source code is converted into an 
+executable code  while  the  run time  is  the time at which the executable code is started running
+A statically-typed language is a language (such as Java, C, or C++) where variable  types are known 
+at compile time , In most of these languages, types  must  be expressly indicated by the programmer
+Dynamic  programming  language  types  are  known run time that means variable types are understand 
+by  using   interpretor . Scripting   is  the   process  of  adding   functionality  to  a  certain 
+program or  making  a  program  “do something” .  We  could  say  that  scripting is part of coding
+Having  understanding with  above computer terms.Now we   moved  to  know about what is javavscript
+JavaScript is a dynamic computer programming language.  It is lightweight and most commonly used as 
+a part of  web pages,  whose implementations allow client-side script to interact with the user and 
+make dynamic pages . Client-side JavaScript  is  the  most  common form of the language. The script 
+should  be  included  in  or  referenced  by  an  HTML  document  for  the  code  to be interpreted 
+by the browser.
